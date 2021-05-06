@@ -50,7 +50,7 @@ fbmessenger==6.0.0
 flasgger==0.9.2
 Flask==1.1.1
 Flask-Compress==1.4.0
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 Flask-JWT-Simple==0.0.3
 Flask-Session==0.3.1
 Flask-SocketIO==4.0.0
